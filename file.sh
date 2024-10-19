@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Hack the Tunnels"
-cowsay "Hack the Tunnels" | lolcat
-cowsay "Hack the Tunnels" | lolcat
-cowsay "Hack the Tunnels" | lolcat
-cowsay "Hack the Tunnels" | lolcat
+cowsay -f milk "Hack the Tunnels" | lolcat
+cowsay -f dragon "Hack the Tunnels" | lolcat
+cowsay -f cupcake "Hack the Tunnels" | lolcat
+cowsay -f meow "Hack the Tunnels" | lolcat
